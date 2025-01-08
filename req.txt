@@ -1,0 +1,21 @@
+Software required:
+⦁	Pycrypto
+⦁	Stegsolve
+⦁	Binwalk
+⦁	Rsactftool
+⦁	Zsteg
+⦁	Ctftool
+⦁	John
+⦁	Hashcat
+⦁	Ghidra
+⦁	Netcat
+⦁	Peda
+⦁	strace
+Installers to keep:
+⦁	Cursor 
+⦁	Vscode
+⦁	
+
+Resources required:
+
+TODO:
